@@ -40,16 +40,5 @@ The notebook provides:
 ### Model Accuracy
 The achieved accuracy is approximately **98.9% to 99%**.
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Dataset sourced from public datasets for educational purposes.
-- Inspired by various machine learning tutorials and projects.
-
-## Contact
-For any questions or suggestions, feel free to open an issue or contact me at [your-email@example.com].
 
